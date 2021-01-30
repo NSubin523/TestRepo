@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hello_world">Hello World</string>
+    <string name="register_to_find_delicious_food_near_you_in_real_time">Register to find delicious food near you in real time</string>
+    <string name="register">Register</string>
+</resources>
